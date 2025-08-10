@@ -12,7 +12,7 @@ public class SbAzureDemoApplication {
 	@GetMapping("/message")
 	public String message(){
 		return "congrats ! your app successfully deployed in Azure";
-	}git
+	}
 
 	public static void main(String[] args) {
 
